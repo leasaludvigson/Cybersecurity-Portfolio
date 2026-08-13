@@ -51,6 +51,6 @@ Tested the firewall configuration to confirm that the source system could no lon
 - Threat Identification
 - PowerShell
 
-## 📄 Full Project Report
+- ## 📄 Full Project Report
 
 [View Full Project Report](./Unit%202%20Project%20-%20Securing%20Servers%20Using%20Honeypots%20and%20IP%20Blocking.pdf)
