@@ -47,8 +47,8 @@ The experience also reinforced the importance of combining technical analysis wi
 
 ## 📄 Full Project Report
 
-[View Full Simulated Attack Scenario Report](./Unit%209%20Project%20-%20Generating%20Simulated%20Attack%20Scenario.pdf)
+[View Full Simulated Attack Scenario Report](./Unit%209%20Project%20-%20Generating%20Simulated%20Attack%20Scenarios%20for%20Red%20Teaming%20and%20Defending%20Using%20Generative%20AI.pdf)
 
---- 
+---
 
 *This project was completed in a controlled educational lab environment for cybersecurity training purposes.*
